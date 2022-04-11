@@ -9,7 +9,7 @@
     </header>
     <router-view />
     <div class="footer">
-    <a class="footer-link" href="https://github.com/BYUCS260/lab-1-photography-website-chris10y">https://github.com/BYUCS260/lab-1-photography-website-chris10y</a>
+    <a class="footer-link" href="https://github.com/chris10y/photobomb">GITHUB</a>
   </div>
   </div>
 </template>
