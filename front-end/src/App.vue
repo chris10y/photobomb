@@ -8,6 +8,9 @@
       </nav>
     </header>
     <router-view />
+    <div class="footer">
+    <a class="footer-link" href="https://github.com/BYUCS260/lab-1-photography-website-chris10y">https://github.com/BYUCS260/lab-1-photography-website-chris10y</a>
+  </div>
   </div>
 </template>
 
